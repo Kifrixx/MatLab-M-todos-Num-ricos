@@ -1,5 +1,5 @@
 %% MATLAB
-function y = s(xi, xn, f)
+function  s(xi, xn, f)
     format long
     x1 = xi; 
     x2 = xn; 
